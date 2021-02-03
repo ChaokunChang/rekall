@@ -7,3 +7,6 @@
 # Ignore files downloaded from tutorials
 tutorials/driving*.mp4
 tutorials/driving*.json
+
+# Ignore ide setting file
+.vscode
